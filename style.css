@@ -18,7 +18,7 @@
     height: 480px;
     width: 380px;
     border-radius: 20px;
-   background-color: blanchedalmond;
+   background-color: white;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -27,8 +27,8 @@
 
 .card img{
     margin-top: 10px;
-    height: 62%;
-    width: 95%; 
+    height: 60%;
+    width: 90%; 
     border-radius: 15px;
     transition-timing-function: linear;
      
